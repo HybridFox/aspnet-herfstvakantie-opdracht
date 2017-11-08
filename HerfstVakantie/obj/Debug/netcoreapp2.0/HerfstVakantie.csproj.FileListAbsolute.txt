@@ -1,0 +1,11 @@
+C:\Users\felik\source\repos\HerfstVakantie\HerfstVakantie\bin\Debug\netcoreapp2.0\HerfstVakantie.deps.json
+C:\Users\felik\source\repos\HerfstVakantie\HerfstVakantie\bin\Debug\netcoreapp2.0\HerfstVakantie.runtimeconfig.json
+C:\Users\felik\source\repos\HerfstVakantie\HerfstVakantie\bin\Debug\netcoreapp2.0\HerfstVakantie.runtimeconfig.dev.json
+C:\Users\felik\source\repos\HerfstVakantie\HerfstVakantie\bin\Debug\netcoreapp2.0\HerfstVakantie.dll
+C:\Users\felik\source\repos\HerfstVakantie\HerfstVakantie\obj\Debug\netcoreapp2.0\HerfstVakantie.csprojResolveAssemblyReference.cache
+C:\Users\felik\source\repos\HerfstVakantie\HerfstVakantie\obj\Debug\netcoreapp2.0\HerfstVakantie.csproj.CoreCompileInputs.cache
+C:\Users\felik\source\repos\HerfstVakantie\HerfstVakantie\obj\Debug\netcoreapp2.0\HerfstVakantie.AssemblyInfoInputs.cache
+C:\Users\felik\source\repos\HerfstVakantie\HerfstVakantie\obj\Debug\netcoreapp2.0\HerfstVakantie.AssemblyInfo.cs
+C:\Users\felik\source\repos\HerfstVakantie\HerfstVakantie\bin\Debug\netcoreapp2.0\HerfstVakantie.pdb
+C:\Users\felik\source\repos\HerfstVakantie\HerfstVakantie\obj\Debug\netcoreapp2.0\HerfstVakantie.dll
+C:\Users\felik\source\repos\HerfstVakantie\HerfstVakantie\obj\Debug\netcoreapp2.0\HerfstVakantie.pdb
